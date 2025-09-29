@@ -1,0 +1,45 @@
+name: Stripe SDE Prep Journey
+description: Game-style Kanban board tracking my progress towards Stripe SDE role 🚀
+public: true
+
+# Workflow settings
+readme: ./README.md
+template:
+  name: automated_kanban_v2
+  description: A game-style Kanban board for SDE prep
+  owner: github
+  version: 2
+
+# Columns
+columns:
+  - name: 🎯 Backlog (Locked Quests)
+  - name: 📝 To Do (Next Up)
+  - name: ⚡ In Progress (Grinding XP)
+  - name: 🔍 Review (Boss Checkpoint)
+  - name: ✅ Done (Quest Completed)
+
+# Cards
+cards:
+  - note: "Level 0 - Setup (Choose language, tools, environment)"
+    column: 🎯 Backlog (Locked Quests)
+
+  - note: "Level 1 - Core Skills (Arrays, Strings, HashMaps, Linked List)"
+    column: 🎯 Backlog (Locked Quests)
+
+  - note: "Level 2 - Algorithmic Patterns (Two Pointers, Sliding Window, DP, Graphs)"
+    column: 🎯 Backlog (Locked Quests)
+
+  - note: "Level 3 - Boss Fight 1: DSA Mock Battles"
+    column: 🎯 Backlog (Locked Quests)
+
+  - note: "Level 4 - System Design (OOP, LLD, HLD, Payment API)"
+    column: 🎯 Backlog (Locked Quests)
+
+  - note: "Level 5 - Stripe World (Stripe Products, Blog, Payment API project)"
+    column: 🎯 Backlog (Locked Quests)
+
+  - note: "Level 6 - Boss Fight 2: System + Behavioral"
+    column: 🎯 Backlog (Locked Quests)
+
+  - note: "Level 7 - Final Boss: Stripe Onsite Simulation"
+    column: 🎯 Backlog (Locked Quests)
