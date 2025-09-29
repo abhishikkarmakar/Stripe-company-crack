@@ -1,0 +1,245 @@
+Let’s turn Stripe SDE prep into a **Kanban / Agile + Game Level journey** so we can stay motivated and see clear progress. Think of it like unlocking levels in a game, where each stage builds the skills you need.
+
+https://www.notion.so/Stripe-SDE-Prep-Journey-Game-Mode-27d7b8a2e7548053a1eec756f12135fc?source=copy_link
+---
+
+# 🎮 Stripe SDE Prep Journey — “Game Mode”
+
+## **Level 0 – Setup (Tutorial Stage)**
+
+🎯 Goal: Build the environment, set rules.
+
+* Choose your **main language** (Java / Python / C++).
+* Set up **LeetCode, GitHub, Notion/Jira board (Kanban)**.
+* Create 3 Kanban columns: **To Do | In Progress | Done**.
+
+💡 *Reward: You officially start the game.*
+
+---
+
+## **Level 1 – Core Skills (Foundation World)**
+
+🎯 Goal: Master basics of programming + DSA fundamentals.
+
+* Arrays, Strings, HashMaps.
+* Linked List, Stack, Queue.
+* 30–40 LeetCode Easy/Medium problems.
+
+🔑 Agile Sprint: 2 weeks (daily 2 problems + review).
+💡 *Reward: Unlock confidence in writing bug-free code fast.*
+
+---
+
+## **Level 2 – Algorithmic Patterns (Challenge World)**
+
+🎯 Goal: Recognize and solve common patterns.
+
+* Two Pointers, Sliding Window, Binary Search, Recursion, Backtracking.
+* Trees, Graph BFS/DFS.
+* 50–60 problems across these patterns.
+
+🔑 Sprint: 3–4 weeks (mix of mediums + 1–2 hards).
+💡 *Reward: You unlock the “Problem-Solver Badge.”*
+
+---
+
+## **Level 3 – Boss Fight 1: DSA Mock Battles**
+
+🎯 Goal: Simulate real interviews.
+
+* Weekly mock interviews (Pramp / Interviewing.io / peer).
+* Time-box LeetCode problems (45 min → 30 min → 20 min).
+
+💡 *Reward: You beat the first boss (DSA stage).*
+
+---
+
+## **Level 4 – System Design (Architecture World)**
+
+🎯 Goal: Learn to think like an engineer at scale.
+
+* **Low-Level Design (LLD):** OOP, design patterns, mini-projects (e.g., design a parking lot).
+* **High-Level Design (HLD):** APIs, databases, caching, queues, scalability.
+* Study Stripe-like problems: *“Design a payments API,” “Design fraud detection.”*
+
+🔑 Sprint: 4–6 weeks, alternating between DSA + design.
+💡 *Reward: You unlock the “Architect Badge.”*
+
+---
+
+## **Level 5 – Stripe Domain Knowledge (Stripe World)**
+
+🎯 Goal: Know Stripe inside out.
+
+* Learn products: Payments, Connect, Atlas.
+* Understand PCI compliance, API security basics.
+* Read Stripe’s engineering blog (real case studies).
+
+💡 *Reward: You gain the “Stripe Insider Badge.”*
+
+---
+
+## **Level 6 – Boss Fight 2: System + Behavioral**
+
+🎯 Goal: Mock full interview rounds.
+
+* Round 1: DSA (timed).
+* Round 2: LLD/HLD.
+* Round 3: Behavioral (*Tell me about a time you…*).
+
+💡 *Reward: You’re interview-ready.*
+
+---
+
+## **Level 7 – Final Boss: Stripe Onsite Simulation**
+
+🎯 Goal: Do a **full Stripe-style mock onsite** (4–5 rounds in 1–2 days).
+
+* Rotate between DSA, System Design, Coding, Behavioral.
+* After each, do a **retro** (Agile style): What went well? What can improve?
+
+💡 *Reward: You “clear the game” and unlock the **Stripe SDE Offer.***
+
+---
+
+# 🔄 Agile / Kanban Tips
+
+* **Daily Stand-up (5 min):** What did I solve yesterday? What’s today? What’s blocked?
+* **Sprint Length:** 2 weeks → review progress at end.
+* **Backlog:** Keep problems/resources you haven’t touched yet.
+* **Demo Day:** End of each level, showcase progress (solve a hard problem live, or design a mini project).
+
+---
+
+⚔️ Think of it like:
+
+* **LeetCode = Training Ground**
+* **Mock Interviews = Mini Boss Battles**
+* **System Design = Advanced Dungeon**
+* **Stripe Knowledge = Secret Map**
+* **Onsite = Final Boss Fight**
+
+---
+
+Below is a Kanban board template with tasks already filled in for each level, so you can just drag & drop as you progress?
+
+---
+
+# 🎯 **Kanban Board Setup**
+
+### Columns:
+
+1. **Backlog (Locked Quests)**
+2. **To Do (Next Up)**
+3. **In Progress (Grinding XP)**
+4. **Review (Boss Checkpoint)**
+5. **Done (Quest Completed 🎉)**
+
+---
+
+# 🗂️ **Kanban Cards (Game Levels)**
+
+### **Level 0 – Setup (Tutorial Stage)**
+
+* [ ] Choose main language (Java / Python / C++).
+* [ ] Set up LeetCode, GitHub repo for notes.
+* [ ] Create Kanban board (Notion/Trello).
+* [ ] Install coding environment (VS Code / IntelliJ / PyCharm).
+
+---
+
+### **Level 1 – Core Skills (Foundation World)**
+
+* [ ] Arrays – 10 LeetCode problems.
+* [ ] Strings – 10 problems.
+* [ ] HashMaps & Sets – 10 problems.
+* [ ] Linked List, Stack, Queue – 15 problems total.
+* [ ] Revise Time & Space Complexity.
+
+✅ Sprint Goal: Finish ~40 problems.
+
+---
+
+### **Level 2 – Algorithmic Patterns (Challenge World)**
+
+* [ ] Two Pointers – 10 problems.
+* [ ] Sliding Window – 10 problems.
+* [ ] Binary Search & Variants – 10 problems.
+* [ ] Recursion + Backtracking – 10 problems.
+* [ ] Trees – 10 problems.
+* [ ] Graphs (BFS/DFS) – 10 problems.
+* [ ] Dynamic Programming (intro) – 10 problems.
+
+✅ Sprint Goal: ~60 problems.
+
+---
+
+### **Level 3 – Boss Fight 1: DSA Mock Battles**
+
+* [ ] Schedule weekly mock interview (Pramp / Interviewing.io).
+* [ ] Solve 3 problems under timed condition (45 min).
+* [ ] Review wrong answers and write notes.
+* [ ] Reduce solve time → 30 min → 20 min.
+
+✅ Sprint Goal: Comfort under interview pressure.
+
+---
+
+### **Level 4 – System Design (Architecture World)**
+
+* [ ] Learn OOP + Design Patterns.
+* [ ] Do 3–4 Low-Level Design problems (e.g., Parking Lot, Elevator System).
+* [ ] Read *System Design Primer* basics.
+* [ ] Study Databases, Caching, Queues, Load Balancers.
+* [ ] Solve 2–3 High-Level Design cases (e.g., URL Shortener, Payment API).
+
+---
+
+### **Level 5 – Stripe World (Domain Knowledge)**
+
+* [ ] Study Stripe Products: Payments, Connect, Atlas.
+* [ ] Read Stripe engineering blog (pick 3 articles).
+* [ ] Understand PCI compliance basics.
+* [ ] Watch 2–3 Stripe tech talks on YouTube.
+* [ ] Mini Project: Build a mock Payment API.
+
+---
+
+### **Level 6 – Boss Fight 2: System + Behavioral**
+
+* [ ] Mock Interview: 1 DSA + 1 System Design.
+* [ ] Practice 10 behavioral questions.
+* [ ] STAR method for answers (Situation, Task, Action, Result).
+* [ ] Peer review session.
+
+---
+
+### **Level 7 – Final Boss: Stripe Onsite Simulation**
+
+* [ ] Full mock onsite (4 rounds in 1–2 days).
+* [ ] Retro: note strengths & gaps.
+* [ ] Fix gaps in 1 week sprint.
+* [ ] Apply to Stripe 🚀
+
+---
+
+# ⚔️ **How to Use**
+
+* Treat each **level as a sprint (2 weeks)**.
+* Drag tasks from **Backlog → To Do → In Progress → Review → Done.**
+* At the end of each sprint, do a **retro (checkpoint review)**.
+* Add 💎 emojis or XP points to keep it fun (e.g., +50 XP for each problem solved).
+
+---
+
+🚀 How to Use in Notion
+
+Open a Notion page.
+
+Paste the above block.
+
+Highlight the lists → Click “Turn into → Board”.
+
+You’ll instantly get a Kanban-style game board.
+
+Drag tasks across Backlog → To Do → In Progress → Review → Done.
