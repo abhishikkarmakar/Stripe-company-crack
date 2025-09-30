@@ -5,8 +5,8 @@ public: true
 # Workflow settings
 readme: ./README.md
 template:
-  name: automated_kanban_v2
-  description: A game-style Kanban board for SDE prep
+  name: basic_kanban
+  description: Default Kanban template for tracking SDE prep
   owner: github
   version: 2
 
@@ -18,27 +18,27 @@ columns:
   - name: 🔍 Review (Boss Checkpoint)
   - name: ✅ Done (Quest Completed)
 
-# Cards
+# Cards (all start in Backlog)
 cards:
-  - note: "Level 0 - Setup (Choose language, tools, environment)"
+  - note: "Level 0 - Setup: Install tools, choose programming language, setup environment"
     column: 🎯 Backlog (Locked Quests)
 
-  - note: "Level 1 - Core Skills (Arrays, Strings, HashMaps, Linked List)"
+  - note: "Level 1 - Core Skills: Arrays, Strings, HashMaps, Linked Lists"
     column: 🎯 Backlog (Locked Quests)
 
-  - note: "Level 2 - Algorithmic Patterns (Two Pointers, Sliding Window, DP, Graphs)"
+  - note: "Level 2 - Algorithm Patterns: Two Pointers, Sliding Window, Dynamic Programming, Graphs"
     column: 🎯 Backlog (Locked Quests)
 
-  - note: "Level 3 - Boss Fight 1: DSA Mock Battles"
+  - note: "Level 3 - Boss Fight 1: Solve DSA mock problems"
     column: 🎯 Backlog (Locked Quests)
 
-  - note: "Level 4 - System Design (OOP, LLD, HLD, Payment API)"
+  - note: "Level 4 - System Design: OOP, LLD, HLD, Payment API design"
     column: 🎯 Backlog (Locked Quests)
 
-  - note: "Level 5 - Stripe World (Stripe Products, Blog, Payment API project)"
+  - note: "Level 5 - Stripe World: Learn Stripe Products, Stripe API, mini project"
     column: 🎯 Backlog (Locked Quests)
 
-  - note: "Level 6 - Boss Fight 2: System + Behavioral"
+  - note: "Level 6 - Boss Fight 2: System + Behavioral interviews prep"
     column: 🎯 Backlog (Locked Quests)
 
   - note: "Level 7 - Final Boss: Stripe Onsite Simulation"
